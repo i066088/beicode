@@ -1,0 +1,4 @@
+E:/GitHub/beicode/build/CMakeFiles/beicode.dir
+E:/GitHub/beicode/build/CMakeFiles/INSTALL.dir
+E:/GitHub/beicode/build/CMakeFiles/ALL_BUILD.dir
+E:/GitHub/beicode/build/CMakeFiles/ZERO_CHECK.dir

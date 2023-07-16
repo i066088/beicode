@@ -1,0 +1,7 @@
+C:/Program Files (x86)/beicode/share/beicode/beicode-config.cmake
+C:/Program Files (x86)/beicode/share/beicode/beicode-config-version.cmake
+C:/Program Files (x86)/beicode/lib/beicode.lib
+C:/Program Files (x86)/beicode/bin/beicode.dll
+C:/Program Files (x86)/beicode/include/beicode.h
+C:/Program Files (x86)/beicode/share/beicode/beicode-targets.cmake
+C:/Program Files (x86)/beicode/share/beicode/beicode-targets-release.cmake
